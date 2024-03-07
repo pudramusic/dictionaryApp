@@ -21,10 +21,11 @@ class ViewController: UIViewController {
     
     let words = [
         ["Apple", "Pear", "Watermelon"],
-        ["Carrot", "Pickle", "Potato", "Tomato"]
+        ["Carrot", "Pickle", "Potato", "Tomato"],
+        ["Strawberry", "Raspberry", "Blackberry", "Blueberry"]
     ]
     
-    let headers = ["Fruit", "Vegetables"] //  создаем массив с заголовками
+    let headers = ["Fruit", "Vegetables", "Berry"] //  создаем массив с заголовками
     
     
     // MARK: - Override
